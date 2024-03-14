@@ -1,19 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Menu_Dad.png">
-	<!-- Created with Adobe Animate version 21.0.1.37179 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="M Dad Idle0000" x="4" y="4" width="206" height="364" pivotX="0" pivotY="3.8" frameX="0" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0001" x="4" y="4" width="206" height="364" frameX="0" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0002" x="210" y="4" width="205" height="364" frameX="0" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0003" x="210" y="4" width="205" height="364" frameX="0" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0004" x="415" y="4" width="204" height="364" frameX="-1" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0005" x="415" y="4" width="204" height="364" frameX="-1" frameY="-3" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0006" x="619" y="4" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0007" x="619" y="4" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0008" x="4" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0009" x="4" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0010" x="206" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0011" x="206" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0012" x="206" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
-	<SubTexture name="M Dad Idle0013" x="206" y="371" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367"/>
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_decrypted.png"><SubTexture name="menu_decrypted idle0000" x="1092" y="0" width="263" height="763" frameX="-219" frameY="-45" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0001" x="1092" y="0" width="263" height="763" frameX="-219" frameY="-45" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0002" x="824" y="0" width="268" height="770" frameX="-216" frameY="-38" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0003" x="824" y="0" width="268" height="770" frameX="-216" frameY="-38" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0004" x="553" y="0" width="271" height="774" frameX="-214" frameY="-34" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0005" x="553" y="0" width="271" height="774" frameX="-214" frameY="-34" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0006" x="279" y="0" width="274" height="779" frameX="-211" frameY="-29" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0007" x="0" y="0" width="279" height="786" frameX="-206" frameY="-22" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0008" x="0" y="0" width="279" height="786" frameX="-206" frameY="-22" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0009" x="0" y="0" width="279" height="786" frameX="-206" frameY="-22" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0010" x="0" y="0" width="279" height="786" frameX="-206" frameY="-22" frameWidth="655" frameHeight="812" />
+<SubTexture name="menu_decrypted idle0011" x="0" y="0" width="279" height="786" frameX="-206" frameY="-22" frameWidth="655" frameHeight="812" />
 </TextureAtlas>

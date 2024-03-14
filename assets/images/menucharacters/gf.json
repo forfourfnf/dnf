@@ -1,11 +1,11 @@
 {
-	
+	"idle_anim": "menu_decryptedgf idle",
 	"image": "Menu_GF",
 	"position": [
-		0,
-		-25
+		-50,
+		0
 	],
+	"flipX": false,
 	"scale": 1,
-	"idle_anim": "M GF Idle",
-	"confirm_anim": "M GF Idle"
+	"confirm_anim": "menu_decryptedbf start"
 }
